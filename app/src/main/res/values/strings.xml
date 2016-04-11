@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shopping Cart</string>
+    <string name="welcome">Welcome to My Movie DVD Collection List on Sale</string>
+    <string name="discount">Buy All times and get a nice 20% discount!</string>
+    <string name="add_cart">Add to Shopping Cart</string>
+    <string name="checkout">Check Out</string>
+    <string name="details">Movie Description</string>
+    <string name="thanks">Thank You for shopping with us! These are your items</string>
+    <string name="detail_title">Details</string>
+</resources>
